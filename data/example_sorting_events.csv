@@ -1,0 +1,6 @@
+timestamp_seconds,object_detected,distance_cm,metal_detected,action
+0,yes,8,yes,route_metal
+10,yes,7,no,route_non_metal
+20,yes,9,yes,route_metal
+30,yes,6,no,route_non_metal
+40,no,-1,no,idle

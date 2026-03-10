@@ -1,0 +1,10 @@
+Component,Example,Qty,Notes
+Arduino Uno,ATmega328P,1,Arduino Nano also acceptable
+Ultrasonic Sensor,HC-SR04,1,For object detection
+Inductive Proximity Sensor,LJ12A3 or similar,1,For basic metal detection
+Servo Motor,Standard hobby servo,1,For sorting gate or diverter
+Sorting Chute,3D printed or handmade,1,Routes items based on servo position
+Breadboard,Standard,1,Optional depending on assembly method
+Jumper Wires,Male/Female,10,As needed
+Power Supply,Stable 5V,1,Required for reliable servo operation
+Collection Bins,Small containers,2,For separated output
